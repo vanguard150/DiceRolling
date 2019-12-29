@@ -4,7 +4,7 @@ if __name__ == '__main__':
     min = 1
     max = 6
     roll_again = "yes"
-    print("test github1")
+    print("test github2")
     while roll_again == "yes" or roll_again == "y":
         print("Rolling the dices...")
         print("The values are ...")
